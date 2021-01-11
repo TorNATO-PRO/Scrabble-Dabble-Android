@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScrabbleDabble</string>
+    <string name="cheat_title">Cheat</string>
+    <string name="validate_title">Validate</string>
+    <string name="about_title">About App</string>
+    <string name="search_title">Search</string>
+    <string name="icon_image_view">Icon</string>
+    <string name="line_title_text_card">Line 1</string>
+    <string name="line_text_card">Line 2</string>
+    <string name="created_by">Created by Nathan Waltz</string>
+    <string name="cheat_hint"><![CDATA[Type Character Sequence (<11 Characters)]]></string>
+    <string name="search">Search</string>
+    <string name="found">Found</string>
+    <string name="not_found">Not found</string>
+    <string name="validate">Validate</string>
+    <string name="enter_word">Enter Word</string>
+    <string name="app_logo">App logo</string>
+</resources>

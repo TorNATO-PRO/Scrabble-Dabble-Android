@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_cheat"
+        android:enabled="true"
+        android:icon="@drawable/ic_cheat"
+        android:title="@string/cheat_title" />
+    <item
+        android:id="@+id/nav_validate"
+        android:enabled="true"
+        android:icon="@drawable/ic_validate"
+        android:title="@string/validate_title" />
+
+    <item
+        android:id="@+id/nav_about"
+        android:enabled="true"
+        android:icon="@drawable/ic_about"
+        android:title="@string/about_title" />
+
+
+</menu>
